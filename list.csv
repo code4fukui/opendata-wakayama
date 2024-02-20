@@ -1,5 +1,5 @@
 url,name,opt
-https://data.bodik.jp/dataset/21cade43-3cea-4c30-9740-224c71244828/resource/828584d8-dbd7-4438-a6fc-319170fbdea9/download/300004_open_data_list.csv,【和歌山県】オープンデータ一覧（推奨データセット準拠）,
-https://data.bodik.jp/dataset/55308044-637b-4010-a9be-a9cb18940bf4/resource/9fab6ac2-2cad-4b44-b85e-a122738c6715/download/202401_300004.xlsx,2024年01月の閲覧数とダウンロード数,
-https://data.bodik.jp/dataset/2fdefa12-02fa-4c61-84a2-aef6a6f21858/resource/2242fff8-d9a1-449e-9a95-11ea9fc97fb0/download/geopark_sitelist.csv,南紀熊野ジオパーク見どころ一覧,cut_first_line;separate_pos
-https://data.bodik.jp/dataset/b84b23bc-c633-4c79-af49-35d99f0e3b1e/resource/a398cb7b-1a56-4ae9-9223-e55e33580eb0/download/ts4-file01duser143669.csv,和歌山県観光地トイレ,
+オープンデータ一覧（推奨データセット準拠）,,https://data.bodik.jp/dataset/21cade43-3cea-4c30-9740-224c71244828/resource/828584d8-dbd7-4438-a6fc-319170fbdea9/download/300004_open_data_list.csv
+2024年01月の閲覧数とダウンロード数,,https://data.bodik.jp/dataset/55308044-637b-4010-a9be-a9cb18940bf4/resource/9fab6ac2-2cad-4b44-b85e-a122738c6715/download/202401_300004.xlsx
+南紀熊野ジオパーク見どころ一覧,cut_first_line;separate_pos,https://data.bodik.jp/dataset/2fdefa12-02fa-4c61-84a2-aef6a6f21858/resource/2242fff8-d9a1-449e-9a95-11ea9fc97fb0/download/geopark_sitelist.csv
+和歌山県観光地トイレ,,https://data.bodik.jp/dataset/b84b23bc-c633-4c79-af49-35d99f0e3b1e/resource/a398cb7b-1a56-4ae9-9223-e55e33580eb0/download/ts4-file01duser143669.csv
